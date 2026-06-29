@@ -1,0 +1,74 @@
+canonical_identifier: bkk:krp/KR3ep094/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ep094/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 崇實堂醫案
+  identifiers:
+    krp: KR3ep094
+  tags:
+    kr-categories: KR3ep
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ep094.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ep094_000-jc.yaml, hash: 'sha256:b2585ac17888b397336d3e0775f7cfc4b42f542cf1269a4558c5e993ee754f5e'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ep094_000-jc.markers.yaml, hash: 'sha256:006bd76c64772e259a345240efe50898126f96b72836647600acbcba559a0bd0'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ep094_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 587
+  label: 王序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep094_jc_000-d3.h1s1
+    span:
+    - front
+    - 587
+    - 1655
+  label: 自序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep094_jc_000-d4.h1s1
+    span:
+    - front
+    - 1655
+    - 2157
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep094_jc_000-d5.h1s1
+    span:
+    - body
+    - 0
+    - 26048
+  label: 芻言
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep094_jc_000-d6.h1s1
+    span:
+    - body
+    - 26048
+    - 26616
+  label: 跋
+  type: section
+  level: 1
+hash: sha256:336e8ba3bb67b50118f5ccbd2968a5309e1a5c290c0fb9821822f9b510365d49
