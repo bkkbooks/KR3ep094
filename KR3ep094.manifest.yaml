@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ep094/v1
 canonical_location: https://kanripo.org/bkk/KR3ep094/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 崇實堂醫案
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ep094_000.yaml, hash: 'sha256:b2585ac17888b397336d3e0775f7cfc4b42f542cf1269a4558c5e993ee754f5e'}
+  - {seq: 0, filename: KR3ep094_000.yaml, hash: 'sha256:827181d095559a3bdaeba83f7787108692c2fd182ede305be19dba042a8d73ce'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ep094_000.markers.yaml, hash: 'sha256:929e15825126d6f1849b0e346c484426fdd696ceba9c4b04666dab667ab12e7b'}
+  - {seq: 0, role: markers, filename: assets/KR3ep094_000.markers.yaml, hash: 'sha256:15c1db880a454e90274a286bb0d16691740654cf348124a37bc487c11fc4f338'}
 table_of_contents:
 - ref:
     seq: 0
@@ -71,4 +71,7 @@ table_of_contents:
   label: 跋
   type: section
   level: 1
-hash: sha256:56eaa2fa855aaa2125ba28d9f1f3d40ee47a3b850a88f6d16d4e0a3c47536e9d
+hash: sha256:6e483874a2bb7e979bbf7bd849970c0f0f4114ad18b1e66fee9ce4d1cffbbe75
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
